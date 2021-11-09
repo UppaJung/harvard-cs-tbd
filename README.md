@@ -35,7 +35,7 @@ A less convenient explanation is that those of us who design, build, and deploy 
 
 The field of _Usable Security_ was born when scientists started conducting human-subjects experiments to test the sometimes explicit, but more often implicit, human-factors assumptions in existing systems, starting with those in systems that were already widely deployed.  These experiments revealed that many of these assumptions were ill-conceived and that some practices thought to improve security were, in fact, harmful.
 
-In this class will learn to read and interpret human-subjects experiments and to design and document their own experiments.  You will learn how to craft a testable hypothesis, choose an experimental setting (e.g., laboratory, field, & natural), choose statistical tests, and to interpret their results. You may also develop a new appreciation for the skills, time, and effort required to evaluate human-factors assumptions in computing systems, and about the harm even world-class engineers can cause by leaving security assumptions unwritten and untested.
+To build more secure and usable systems, with more realistic human-subjects assumptions, you will need to be able to identify and document the human-subjects assumptions within these systems.  To understand how realistic these assumptions are, you will need to be able to read and interpret existing human-subjects experiments.  When building systems with new user experiences or where human-factors assumptions have not been fully tested, you will need to be able to turn your assumption into testable hypotheses, then either test these hypotheses or work with those who will test them.  This course will prepare you to do so.
 
 ## Prerequisites
 
@@ -48,7 +48,7 @@ The primary requirement is that students be ready to read primary-source materia
 1. Students will learn to examine systems to identify the explicit and implicit human-factors assumptions.
 2. Students will learn to formalize hypotheses for testing these systems assumptions.
 3. Students will develop skills reading research papers, evaluating their findings, and identifying their limitations.
-4. Students will use these skills to build their knowledge of state-of-the-art research and experimental methods.
+4. Students will use these skills to build their knowledge of state-of-the-art research and experimental methods, including choosing experimental settings and statistical tests.
 
 ## Course Evaluation
 
@@ -81,8 +81,8 @@ Reading and understanding research papers is one of the fundamental skills you w
 
 Paper assignments will be filled on a first-come, first-served basis, so we recommend selecting your papers as soon as possible.  For each paper, you should notify the instructors at least one week in advance of when you plan to present.
 
-When it’s your turn to lead the 10-15 minute discussion of the paper, you'll want to read the guidelines on [leading paper discussions](/leading-paper-discussions.md).
+When it’s your turn to lead the 15-20 minute discussion of the paper, you'll want to read the guidelines on [leading paper discussions](/leading-paper-discussions.md).
 
 
-# [Schedule](/schedule)
+<!-- # [Schedule](/schedule) -->
 

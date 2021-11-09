@@ -2,7 +2,7 @@
 
 [<span class="underline">Sample size determination</span>](https://en.wikipedia.org/wiki/Sample_size_determination) (AKA power analysis) is the process of calculating the number of participants an experiment will require to reach statistical significance under assumptions (guesses) about the size of the effect that will be observed.
 
-For this assignment, imagine that students in W215 propose a course project to test whether users will be more likely to comply with a warning if a popular 80s adjective is used to highlight which option is safe (e.g. not installing unsafe software the user has just downloaded) and which option is unsafe (e.g. installing the software).
+For this assignment, imagine that students propose a course project to test whether users will be more likely to comply with a warning if a popular 80s adjective is used to highlight which option is safe (e.g. not installing unsafe software the user has just downloaded) and which option is unsafe (e.g. installing the software).
 
 The student researchers choose four possible words that describe the safe option: “bodacious”, “righteous”, “tight”, and a control (no adjective). They choose three variants for the adjective attached to the unsafe option: “gnarly”, “grody”, or a control (no adjective). This yields a between-subjects 4x3 design: four treatments for different adjectives for the safe option x 3 treatments for the unsafe option. This yields a total of 12 treatment groups to cover all possible combinations of positive and negative adjectives.
 

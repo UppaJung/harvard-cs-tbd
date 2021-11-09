@@ -1,16 +1,5 @@
 # Course Project Guidelines
 
-**Quick links**:
-
-- [List of projects, Fall 2020 term](https://github.com/uc-berkeley-w215/fall2020/blob/primary/project/list-of-projects.md)
-- [List of projects, Summer 2020 term](https://github.com/uc-berkeley-w215/summer2020/blob/master/project/list-of-projects.md)
-- [List of project ideas](./ideas.md)
-- [Tips on helping others with their projects](./helping-others.md)
-- [Collaborating with Qualtrics](/project/tools/qualtrics)
-- [Tips on setting up a Qualtrics survey](https://docs.google.com/document/d/1dCWqeEVaHSNwUDYGvA1_XT8BK_1JFZQUe2MjjIDPLbo/edit) (thanks to Jacky Ho)
-
-
-
 You will design a research protocol to evaluate human behaviors or attitudes that impact security or privacy in computing systems, writing up the protocol as if it were an (incomplete) research paper and presentation. (Incomplete because you may not have time to run more than a pilot study.)
 
 Pilot any components that can be piloted in the time available, and/or use peers from other project groups to identify ways to improve your protocol. Project groups will be either 2-3 people.
@@ -28,38 +17,38 @@ The final deliverable will be a research paper which should contain:
 
 Be proactive about talking with the instructor before the project proposal is due in case you have chosen a topic that is out of scope or not well-scoped.
 
+Also reach out to fellow students for feedback and help others who reach out to you.  The more helpful you are to others, the more likely it is they will help you.  (Also, helping others will help your grade, especially if [you follow the tips for how to be most helpful](./helping-others.md).
+
 ### Budget and recruiting
 
-We have a budget of $100/student for running studies, so you can pay participants via such services as
- - [Prolific](https://www.prolific.co/) (strongly recommended by Professor Egelman), 
- - [Qualtrics](https://berkeley.ca1.qualtrics.com/)
-     > Qualtrics is free for Berkeley students building surveys, but has a $500 minimum for recruiting participants.  Unless you have a large group and want to do everything in Qualtrics, we suggest using Qualtrics for the survey component of your study and recruiting participants in Prolific or Mechanical Turk.
- - [Amazon’s Mechanical Turk](https://www.mturk.com/)
-     > Note that we've received reports that MTurk's data quality has gone significantly down due to infiltration by bots, and one team in the fall term found the great majority of participants failed to do the task that was required.
-
-For building surveys, make sure to read the instructions for using Berkeley's site license for [Qualtrics](/project/tools/qualtrics) to get all their advanced features.
+We have a budget of TBD/student for running studies, so you can pay participants via such services as
+ - [Prolific](https://www.prolific.co/)
+     > A participant recruiting & payment tool.
+ - [Qualtrics](https://huit.harvard.edu/qualtrics)
+     > Qualtrics is a web-based application for building and conducting surveys that is free for Harvard affiliates.
 
 
 ### Ethics
 
-You may use the class’s running list of [<span class="underline">project ideas</span>](./ideas.md).
+Your course staff are deeply invested in ensuring that students learn how identify and address ethical concerns in scientific research and that course projects adhere to ethical standards of conduct.  You need to ensure the course staff has reviewed and approved the ethics section of your course proposal before you start conducting your research. You need to do your best to identify and address any possible harms, explore options for addressing them, and explain how you will proceed and what you will do if unforeseen ethical issues arise.
 
-You will need to familiarize yourself with the [University guidelines](https://cphs.berkeley.edu/review.html) on whether you project will require ethical review. Course projects...
+To do this, you will need to familiarize yourself with the [Committee on the Use of Human Subjects](https://cuhs.harvard.edu/) and their [guidelines on whether you project will require ethical review](https://cuhs.harvard.edu/do-you-need-irb-review-and-why). While most course projects are [exempt from review by CUHS](https://cuhs.harvard.edu/undergraduate-research-and-course-projects), you will still need to provide your instructors sufficient information to conduct course-level review.
 
-> "generally do not constitute research because their purpose is to provide training in research as part of the overall educational mission of a program and are not designed to contribute to new knowledge. However, if ... the instructor or student wishes to conduct further investigation and analyses in order to contribute to scholarly knowledge ... it meets the above definition of research and requires CPHS/OPHS review."
+Should you you want to extend your course project for publication or as a research project beyond the course, you will need to seek CUHS approval (which the course staff may be able to assist you with).  Quoting the CUHS exemption:
 
-We interpret that to mean that if your project is going well and you expect to have a result worth publishing, you will want to add an ethics review.
+> Class projects and research methods classes may involve data collection activities for training purposes that do not require IRB review and oversight because the intent is to teach methods, not to contribute to generalizable knowledge. It is no longer necessary for the Course Instructor to submit an IRB application when the purpose of the class is for educational purposes only.
+
+> However, when the primary focus and initial intent of the class activities are designed to collect data to be used by students beyond the classroom, for example for scholarly publication or use for future research, it is the responsibility of the faculty advisor to assist students in determining whether obtaining IRB approval or exemption is required and if so, that this is done prior to the initiation of a human subjects research project.
 
 ### Schedule
 
-**You will want to get started early**, seek feedback early, pilot early, and leave time for many revisions of your study materials. In the words of a former student in this course after submitting a successful
-project:
+**You will want to get started early**, seek feedback early, pilot early, and leave time for many revisions of your study materials. In the words of a former student in this course after submitting a successful project:
 
 > *This is tough. Every time I take another pass at this I see more things I want to change. Are the studies you work on always this iterative? How do you know when you're actually ready to deploy?*
 
 In fact, most studies designed by researchers with decades of experience will go through more iterations than you have time for during this term, often with over a dozen iterations of test materials and two to four pilot studies. One of the things you will be learning this term is that the human-subjects studies you read are the results of lots of work you are unlikely to read about in the paper, and far more work than most people understand.
 
-### Week 6, before the live session
+### Week 6, before class
 
 In the breakout group projects that we started during Week 3 and presented in Week 4, I hope you all learned that:
 
@@ -76,17 +65,17 @@ To motivate your research, please explain the possible impact of your research o
   - Will you be identifying users concerns so that you can better quantify them with a follow-up study so that they can be address down the road?
   - Are there benefits to the study that cannot be expressed as decisions that might be changed or resources that might be allocated differently based on the possible outcomes?
 
-**Please submit at least two paragraphs before the sync session**, and be prepared to answer questions about what you wrote. Submit it to the slot "*Assignment 6*" in ISVC, and share it in the Slack channel.
+**Please submit at least two paragraphs before class**, and be prepared to answer questions about what you wrote.
 
-### Week 7, before the live session
+### Week 7, before class
 
 Revise your project idea by integrating any feedback you've received.
 
-### Week 8, before the live session
+### Week 8, before class
 
-Submit a **one-page project proposal** (10% of course grade) to the slot "*Project Proposal*" in ISVC.  You can start with the [project proposal structure](/project/proposals/proposal-structure-with-examples.md) and fill in related work, add additional questions, and provide more details about your study.
+Submit a **one-page project proposal** (10% of course grade).  You can start with the [project proposal structure](/project/proposals/proposal-structure-with-examples.md) and fill in related work, add additional questions, and provide more details about your study.
 
-### Week 9, before the live session
+### Week 9, before class
 
 Revise your proposal to include the following:
 
@@ -109,18 +98,18 @@ Some aspects of your protocol you might want to consider:
   - Consider possible physical, psychological, social, legal, and economic harms, including possible negative effects on financial standing, employability, insurability, educational advancement or reputation.
 
 
-### Week 12, before the live session
+### Week 12, before class
 
 At this point you should have run an initial pilot with at least a few convenience participants (friends or coworkers) if not a larger pilot and will want to share how this went.
 
-### Week 14, before the live session
+### Week 14, before class
 
  1. Email a content-complete draft of your paper with all the required sections (see the top of this document) to the instructors.  The subject line of the email should start with "W215 Project Rough Draft".
 
  2. Prepare a presentation about your project for the class (see below).
 
 
-### Week 14, during the live session
+### Week 14, during the class
 
 Each group will share their project with the class. Please cover at least the following:
 
@@ -131,10 +120,16 @@ Each group will share their project with the class. Please cover at least the fo
    * What would be your recruiting plan and target demographics if you were to continue the research?
    * What other improvements would you make to the study?
 
-### Three days after Week 14 live session
+### Three days after final class
 
-Submit the final draft of your paper to the slot "*Final Project*" in ISVC and also email it to the instructors.  The subject line of the email should start with "W215 Project Final Draft".
+Submit the final draft of your paper.  The subject line of the email should start with "Project Final Draft".
 
-The final draft should include any changes made following feedback from the live session.  Include a copy of your study materials (survey text, interview script, etc.) in an appendix of the paper or as an email attachment.
+The final draft should include any changes made following feedback from the class.  Include a copy of your study materials (survey text, interview script, etc.) in an appendix of the paper or as an email attachment.
 
 Complete the project team assessment survey. 
+
+## Suggested and past projects in this and related courses
+
+- [Suggested project ideas](./ideas.md)
+
+- UC Berkeley W215 [Fall 2020](https://github.com/uc-berkeley-w215/fall2020/blob/primary/project/list-of-projects.md) and [Summer 2020](https://github.com/uc-berkeley-w215/summer2020/blob/master/project/list-of-projects.md).

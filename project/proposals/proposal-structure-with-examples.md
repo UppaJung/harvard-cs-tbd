@@ -16,7 +16,7 @@
 
 1. Crypto-currency users with digital wallets
 
-2. Do crypto-currency experts use different strategies to protect their digital wallets?
+2. Do crypto-currency experts use different strategies to protect their digital wallets than non-experts?
 
 3. If there is evidence to support a gap between experts and non-experts, we could direct research into making the strategies used by experts accessible to all users.
 
@@ -58,7 +58,7 @@ Example questions:
 
 ---
 
-### Example 5: Bad example - Seeking confirmation for a specifc idea
+### Example 5: Bad example - Seeking confirmation for a specific idea
 
 1. Crypto-currency users with digital wallets
 
