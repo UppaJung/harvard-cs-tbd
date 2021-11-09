@@ -46,9 +46,9 @@ The primary requirement is that students be ready to read primary-source materia
 ## Expected Learning Outcomes
 
 1. Students will learn to examine systems to identify the explicit and implicit human-factors assumptions.
-2. Students will learn to formalize hypotheses for testing theses systems assumptions.
+2. Students will learn to formalize hypotheses for testing these systems assumptions.
 3. Students will develop skills reading research papers, evaluating their findings, and identifying their limitations.
-4. Students will use this skills  to build their knowledge of state-of-the-art research and experimental methods.
+4. Students will use these skills to build their knowledge of state-of-the-art research and experimental methods.
 
 ## Course Evaluation
 
